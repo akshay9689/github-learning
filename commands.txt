@@ -1,0 +1,23 @@
+$ git config --global user.email "akshayjondhale632@gmail.com"
+$ git config --global user.name "Akshay Jondhale"
+
+part 1:
+
+1)git init
+2)git add [file name] || -A
+3)git status
+4)git commit -m "msg"
+5)git remote add origin reponame
+6)git push origin master
+7)git clone reponame
+8)git pull origin master
+
+==========================================================================================================
+1) login / sign up for github and create repositary public or private , i make "github-learning" repositary
+     and this repo link is 
+     https://github.com/akshay9689/github-learning.git
+2) download git from https://git-scm.com/download/win and install anywhere mostly in c: drive
+3) create project anywhere in PC 
+   suppose your project is in "project" folder
+   go to "projrct" folder side right click and click on "Git Bash Here"
+   then command line open 
